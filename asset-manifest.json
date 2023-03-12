@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e0425530.chunk.js",
+    "main.js.map": "/static/js/main.e0425530.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11ba4620.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11ba4620.js.map",
+    "static/js/2.5e31f0c2.chunk.js": "/static/js/2.5e31f0c2.chunk.js",
+    "static/js/2.5e31f0c2.chunk.js.map": "/static/js/2.5e31f0c2.chunk.js.map",
+    "static/js/3.d5fdcd1a.chunk.js": "/static/js/3.d5fdcd1a.chunk.js",
+    "static/js/3.d5fdcd1a.chunk.js.map": "/static/js/3.d5fdcd1a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.5e31f0c2.chunk.js.LICENSE.txt": "/static/js/2.5e31f0c2.chunk.js.LICENSE.txt",
+    "static/media/alamo.4d782a0c.jpg": "/static/media/alamo.4d782a0c.jpg",
+    "static/media/family.62205dc7.jpg": "/static/media/family.62205dc7.jpg",
+    "static/media/gavel.b8ad3732.jpg": "/static/media/gavel.b8ad3732.jpg",
+    "static/media/gjl.74598ce5.svg": "/static/media/gjl.74598ce5.svg",
+    "static/media/photo.c648dcc5.jpg": "/static/media/photo.c648dcc5.jpg",
+    "static/media/suburbs.ace9e4af.jpg": "/static/media/suburbs.ace9e4af.jpg",
+    "static/media/will.6453099b.jpg": "/static/media/will.6453099b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11ba4620.js",
+    "static/js/2.5e31f0c2.chunk.js",
+    "static/js/main.e0425530.chunk.js"
+  ]
+}
